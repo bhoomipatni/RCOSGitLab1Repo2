@@ -1,0 +1,27 @@
+/* CSS elements used: background color, text color, font, borders */
+body {
+  background-color: #f4f4f9;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 20px;
+}
+
+h1 {
+  color: #0066cc;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #cc0000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border: 3px solid #333;
+  border-radius: 8px;
+}
